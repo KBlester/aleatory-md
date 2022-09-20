@@ -93,10 +93,7 @@ ${prefix}fotomenu só marcar uma foto, que já é trocado.
 ----------------------------
 CRÉDITOS DO BEM VINDO : 
 
-Brizas-Bot = Ian.
-
-
-Assinado: Aleatory Bot. 
+Criador do bot -- Kaue Blester 
 
 -----------------------------
 `
