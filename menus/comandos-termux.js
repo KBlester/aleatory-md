@@ -2,10 +2,10 @@ const cmd_termux = (prefix) => {
 return `
 SÓ DEVO LEMBRAR QUE O TERMUX DA PLAY STORE NÃO PRESTA, ENTÃO INSTALE O 118 POR LÁ 
 
-> aleatoryapi.herokuapp.com 
+> vai no google e pesquise "termux download"
 
 
-Comandos Básicos do termux, nescessario para inicialização do bot:
+Comandos Básicos do termux, nescessario para uso.
 
 
 - _1 COMANDO :
@@ -28,7 +28,7 @@ _2 COMANDO
 pkg upgrade -y 
 
 
-ASSISTA O VIDEO, ALGUMAS VEZES QUANDO PAUSAR É NESCESSARIO DA ENTER, VAI PAUSAR A AÇÃO E VAI APARECER [default=N] ?
+ALGUMAS VEZES É NESCESSARIO DA ENTER, VAI PAUSAR A AÇÃO E VAI APARECER [default=N] ?
 
 _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
 
@@ -86,7 +86,8 @@ npm i -g npm@6 && npm i heroku -g
 _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
 
 
-PRONTO, BOA SORTE... 
+PRONTO, BOA SORTE...
+JÁ PODE BAIXAR QUALQUER COISA NO TEU TERMUX SUS
 
 
 `
