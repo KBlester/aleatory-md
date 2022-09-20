@@ -85,16 +85,16 @@ const getRandom = (ext) => {
 const spinner = { 
   "interval": 150,
   "frames": [
-"A",
-"AL",
-"ALEA",
-"ALEATORY",
-"ALEATORY-MD",
+"K",
+"KI",
+"KIRI",
+"KIRITO",
+"KIRITO-BOT",
   ]}
 
 const spinner2 = { 
   "interval": 150,
-  "frames": ["CANAL : Youtube.com/aleatoryconteudos"]}
+  "frames": ["CANAL : Youtube.com/embrevesepa"]}
 
 let globalSpinner;
 
@@ -134,7 +134,7 @@ const close = (id, text) => {
 }
 
 
-const banner2 = cfonts.render(('Canal: youtube.com/aleatoryconteudos'), {
+const banner2 = cfonts.render(('Canal: Youtube.com/embrevesepa'), {
 font: 'console',
 align: 'center',
 gradrient: [`${cor4}`,`${cor2}`], 
@@ -142,7 +142,7 @@ colors: [`${cor3}`,`${cor1}`,`${cor5}`],
 lineHeight: 1
 });
  
-const banner3 = cfonts.render((`ALEATORY MD 3.0`), {
+const banner3 = cfonts.render((`KIRITO-BOT 1.0`), {
 font: 'tiny',             
 align: 'center',           
 colors: [`${cor1}`,`${cor3}`,`${cor4}`,`${cor2}`],
